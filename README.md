@@ -249,23 +249,16 @@ flutter test
 - Advanced chart features (annotations, custom ranges)
 - Comparison charts (week-over-week, month-over-month)
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
 
-## License
+![WhatsApp Image 2025-11-09 at 12 05 59 AM](https://github.com/user-attachments/assets/5399e7d1-0865-4c43-835b-010e6327590d)
+![WhatsApp Image 2025-11-09 at 12 06 00 AM](https://github.com/user-attachments/assets/d9192dc1-9bd1-4573-89cd-907b1ad91d5c)
+![WhatsApp Image 2025-11-09 at 12 06 00 AM (1)](https://github.com/user-attachments/assets/9a0baedd-9db2-4a9c-8cb2-0bd462f8d2a4)
+![WhatsApp Image 2025-11-09 at 12 06 01 AM](https://github.com/user-attachments/assets/2a096eb7-4003-4dd7-ab7f-b3fdcc4072e7)
+![WhatsApp Image 2025-11-09 at 12 06 02 AM](https://github.com/user-attachments/assets/51e56438-662c-43a8-b266-69e489354494)
+![WhatsApp Image 2025-11-09 at 12 06 02 AM (1)](https://github.com/user-attachments/assets/ad37d8d8-278d-4702-bdaa-3d48630c4e05)
+![WhatsApp Image 2025-11-09 at 12 06 01 AM (1)](https://github.com/user-attachments/assets/53cdc29f-5ecb-4829-888a-c3b1ca482584)
+![WhatsApp Image 2025-11-09 at 12 06 02 AM (2)](https://github.com/user-attachments/assets/7817d468-c8cf-427c-ad6b-098070d4c0a9)
+![WhatsApp Image 2025-11-09 at 12 06 03 AM](https://github.com/user-attachments/assets/645d1111-5b05-45b4-b62b-8aaa90376020)
+![WhatsApp Image 2025-11-09 at 12 06 03 AM (1)](https://github.com/user-attachments/assets/c6b2b5a5-dd72-4085-8599-1afe65cd4771)
 
-This project is created for educational purposes as part of a Flutter Developer Assessment.
-
-## Contact
-
-For questions or feedback, please open an issue in the repository.
-
----
-
-**Generated with Claude Code** - A comprehensive Flutter wellness tracking application demonstrating modern mobile development practices.
